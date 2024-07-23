@@ -2,7 +2,7 @@
 [Click here to view this page in English](https://github.com/faillerplays/desafiojgp/blob/main/README-en.md)
 # Análise de Inflação dos EUA (Desafio JGP Macro)
 
-Este repositório contém a solução para o desafio de processo seletivo para cientista de dados da JGP Macro. O objetivo do desafio é analisar dados de inflação dos Estados Unidos (CPI) obtidos do Bureau of Labor Statistics (BLS).
+Este repositório contém a solução para o desafio de processo seletivo para cientista de dados Macro da JGP. O objetivo do desafio é analisar dados de inflação dos Estados Unidos (CPI) obtidos do Bureau of Labor Statistics (BLS).
 
 ## Estrutura do Repositório
 
