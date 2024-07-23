@@ -12,7 +12,7 @@ Este repositório contém a solução para o desafio de processo seletivo para c
 
 *  **question4.py:** Script para gerar o (cpiallvscpigasoline.html) - analisar a relação entre o CPI "Todos os itens" e o CPI da "Gasolina".
 
-*  **question5.py** Script para criar uma API FastAPI que permite consultas aos dados do CPI.
+*  **question5.py** Pergunta bonus - Script para criar uma API FastAPI que permite consultas aos dados do CPI.
 
 *  **cpi_data.csv:** Arquivo CSV contendo os dados de inflação obtidos da API do BLS.
 
