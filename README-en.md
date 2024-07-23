@@ -1,13 +1,13 @@
-# US Inflation Analysis (JGP Macro Challenge)
+# US Inflation Analysis (JGP Challenge)
 
-This repository contains the solution for the data scientist recruitment challenge by JGP Macro. The goal of the challenge is to analyze US inflation data (CPI) obtained from the Bureau of Labor Statistics (BLS).
+This repository contains the solution for the data scientist internship recruitment challenge by JGP . The goal of the challenge is to analyze US inflation data (CPI) obtained from the Bureau of Labor Statistics (BLS).
 
 ## Repository Structure
 
 * **question1.py:** Script to fetch inflation data from the BLS API, process it, and save it to a CSV file.
 * **question2&3.py:** Script to generate an interactive plot showing the evolution of the CPI "All items less food and energy" (seasonally adjusted) and its annual percentage change.
 * **question4.py:** Script to generate `cpiallvscpigasoline.html` - analyzing the relationship between the CPI "All items" and the "Gasoline" CPI.
-* **question5.py:** Script to create a FastAPI application that allows queries to the CPI data.
+* **question5.py:** Bonus question - Script to create a FastAPI application that allows queries to the CPI data.
 * **cpi_data.csv:** CSV file containing the inflation data obtained from the BLS API.
 * **cpiallvscpigasoline.html:** HTML file containing the charts of the percentage change in general CPI and gasoline.
 * **cpilfeyoy.html:** HTML file containing the chart of the year-over-year percentage change of CPI All items less food and energy.
