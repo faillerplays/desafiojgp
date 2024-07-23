@@ -56,9 +56,10 @@ Este repositório contém a solução para o desafio de processo seletivo para c
 
 Voce pode ver os gráficos interativos aqui:
 
-[Ver CPI todos itens vs Gasolina](https://faillerplays.github.io/desafiojgp/cpiallvscpigasoline.html)
+[Questão 2. Ver mudança ano a ano da CPI todos itens menos comida e energia em percentual](https://faillerplays.github.io/desafiojgp/cpilfeyoy.html)
 
-[Ver mudança ano a ano da CPI todos itens menos comida e energia em percentual](https://faillerplays.github.io/desafiojgp/cpilfeyoy.html)
+[Questão 4. Ver CPI todos itens vs Gasolina](https://faillerplays.github.io/desafiojgp/cpiallvscpigasoline.html)
+
 
 
 ## Autor
